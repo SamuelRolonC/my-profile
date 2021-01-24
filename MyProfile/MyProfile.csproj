@@ -49,7 +49,6 @@
     <Compile Include="Entities\People.cs" />
     <Compile Include="Entities\Plan.cs" />
     <Compile Include="Entities\PlanResult.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Samuel.cs" />
   </ItemGroup>
